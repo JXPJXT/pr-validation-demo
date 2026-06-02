@@ -1,7 +1,7 @@
 name: Pull Req Validation CI
 
 on: 
-  pull_requst:
+  pull_request:
     branches:
       - main
 
